@@ -1,4 +1,4 @@
-# project_web_one
+# First public Project vueJS
 
 ## Project setup
 ```
