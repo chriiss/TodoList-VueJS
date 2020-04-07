@@ -1,0 +1,16 @@
+{
+    "deleteMode" : {
+        "id": 0,
+        "deletetext": "Delete All"  
+    },
+
+    "dayMode" : {
+        "id":1,
+        "daytext": "Day mode"  
+    }, 
+    
+    "nightMode" : {
+        "id": 2,
+        "nighttext": "Night mode"  
+    }
+}
